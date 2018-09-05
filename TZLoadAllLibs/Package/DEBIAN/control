@@ -1,0 +1,17 @@
+Package: Tozy.TZLoadAllLibs
+Name: TZLoadAllLibs
+Version: 0.1-1
+Description: app启动加载全部动态库
+Section: Tweaks
+Depends: mobilesubstrate, applist
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: TozyZuo
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: TozyZuo
+Icon: 
+
