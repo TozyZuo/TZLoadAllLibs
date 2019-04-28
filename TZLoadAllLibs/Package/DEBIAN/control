@@ -3,7 +3,7 @@ Name: TZLoadAllLibs
 Version: 0.1-1
 Description: app启动加载全部动态库
 Section: Tweaks
-Depends: mobilesubstrate, applist
+Depends: mobilesubstrate, applist, preferenceloader
 Conflicts: 
 Replaces: 
 Priority: optional
